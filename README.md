@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Elçi</h1>
 <h3 align="center">Full-Stack Developer From Türkiye</h3>
 
-- 🌱 I’m currently learning **Spring, Thymeleaf, JavaScript**
+- 🌱 I’m currently learning **Spring, Thymeleaf, JavaScript, React, NextJs**
 
 - 📝 I rarely write articles on [https://dev.to/yunuselci/](https://dev.to/yunuselci/)
 
